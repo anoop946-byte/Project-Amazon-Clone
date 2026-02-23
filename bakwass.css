@@ -1,0 +1,25 @@
+.navbar{
+    background-color: black;
+    height: 75px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.navlogo{
+    background-image: url("amazon_logo.png");
+    height: 60px;
+    width: 100px;
+    background-size: cover;
+
+
+}
+.first{
+    margin-left: 5px;
+    font-size: 0.8rem;
+}
+.border:hover{
+    border:2px solid yellow;
+}
+.option{
+    margin-left:10px;
+}
